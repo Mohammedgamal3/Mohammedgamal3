@@ -44,18 +44,13 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: **https://github.com/USERNAME_HERE**
+- Email: **mo.11gemy.2006@gmail.com**
+- phone: **01080129772**
 
 ---
 
